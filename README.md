@@ -1,7 +1,7 @@
 # Pytorch_snake
 A PyTorch based reinforcement learning agent to play snake
  
- ## Analysis Motivation
+ ## Motivation
 When I was young, I played the game Snake a lot on my mom's not-so-smart motorola phone. It was a "toxic" game as I could never get a really high score. Fast forward to now, 
 I learned about reinforcement learning in my Grad School robotics class and I wanted to see if I could write a simple snake game first and then use PyTorch to train a neural network
 to play the game with reinforcement learning. 
